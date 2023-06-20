@@ -76,3 +76,12 @@ footer{
     border-radius: 15px;
     background-color: white;
 }
+.signup{
+    background-image: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(./img/basset-hound-3858170_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width:100%;
+    color: #fefff8;
+}
