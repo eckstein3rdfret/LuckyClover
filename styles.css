@@ -23,9 +23,6 @@ a:hover{
     background-repeat: no-repeat;
     background-size: cover;
 }
-main{
-    width: 100%;
-}
 .beaches{
     background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url(./img/pexels-christy-rice-15265070.jpg);
     background-position: center;
