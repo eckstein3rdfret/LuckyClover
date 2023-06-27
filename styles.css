@@ -30,15 +30,15 @@ a:hover{
     background-size: cover;
 }
 .borderclass{
-        background-color: #fefff8;
-        border-color: #4a261b;
-        border-style: ridge;
-        border-width: 8px;
-        border-radius: 10px;
-        box-shadow: 2px 2px 2px 2px black inset, rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-        font-family: 'Fresca', sans-serif;
-        text-shadow: 1px 1px 4px #73442f;
-        color: #212227;
+    background-color: #fefff8;
+    border-color: #4a261b;
+    border-style: ridge;
+    border-width: 8px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black inset, rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    font-family: 'Fresca', sans-serif;
+    text-shadow: 1px 1px 4px #73442f;
+    color: #212227;
 }
 footer{
     color: #fefff8;
