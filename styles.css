@@ -13,6 +13,21 @@ nav{
 a:hover{
     color: #fefff8 !important;
 }
+.fc{
+    display: flex;
+    flex-flow: column;
+}
+.je{
+    justify-content: space-evenly;
+}
+.ja{
+    justify-content: space-around;
+}
+.bic{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .hero {
     margin-top: 11vh;
     margin-bottom: 9vh;
